@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1008700916570",
+    "project_id": "eyewear-31f0d",
+    "storage_bucket": "eyewear-31f0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008700916570:android:6c7faff13eedeb45aee963",
+        "android_client_info": {
+          "package_name": "com.example.flutter_eyewear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008700916570-f0ftdgh4d1459kh268eiqnd0qs1sqn52.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLGy2Y6oasoi4hLJE8J8EgkgCwiZ3JzGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008700916570-f0ftdgh4d1459kh268eiqnd0qs1sqn52.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
